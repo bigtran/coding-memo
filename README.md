@@ -1,2 +1,2 @@
-# coding_memo
+# coding-memo
 memo
