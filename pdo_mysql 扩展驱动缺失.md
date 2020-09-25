@@ -3,3 +3,8 @@ Stack trace:
 
 
 https://blog.csdn.net/weixin_40704661/article/details/81101136
+
+
+
+apt install php-mysqli
+
